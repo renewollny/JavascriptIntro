@@ -1,0 +1,7 @@
+*:focus{
+    background-color: #2f52ff;
+}
+
+.test:hover{
+    color: red;
+}
